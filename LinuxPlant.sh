@@ -30,10 +30,10 @@
 flag="3249327490781738213"
 
 # Where did they put the flag?  Check your CTF instructions
-flagfile='/flag'
+flagfile='/flag.txt'
 
 #backdoor port number, only change if you have to..., high ports dont get scaned by nmap by default
-backdoorport=20011
+backdoorport=20211
 
 ######################################################End of config
 
